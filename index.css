@@ -1,0 +1,33 @@
+body{
+    font-family: "Open Sans", sans-serif;
+    background-image: url(faded-office.png);
+    background-size: cover;
+    background-color: #020202;
+    margin: 100px;
+}
+
+#title{
+    font-weight: 900;
+    color: #020202;
+    font-size: 60px;
+}
+
+#description{
+    font-weight: 500;
+    color: #020202;
+    font-size: 30px;
+    padding-bottom: 20px;
+}
+
+#underline{
+    border-bottom: 5px solid #0ea5e9;
+}
+
+#cta{
+    padding: 20px 40px;
+    color: whitesmoke;
+    background-color: #0ea5e9;
+    border: none;
+    font-size: 25px;
+    font-weight: 700;
+}
